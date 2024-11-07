@@ -1,4 +1,4 @@
-# hypernova-ruby [![Build Status](https://travis-ci.org/airbnb/hypernova-ruby.svg)](https://travis-ci.org/airbnb/hypernova-ruby)
+# hypernova-ruby
 
 > A Ruby client for the Hypernova service
 
